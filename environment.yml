@@ -1,0 +1,8 @@
+name: cds-hubble
+channels:
+  - conda-forge
+dependencies:
+  - python==3.8
+  - pip
+  - pip:
+    - git+https://github.com/nmearl/hubbleds.git

@@ -5,4 +5,4 @@ dependencies:
   - python==3.8
   - pip
   - pip:
-    - git+https://github.com/cosmicds/hubbleds.git
+    - git+https://github.com/nmearl/hubbleds.git

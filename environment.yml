@@ -6,3 +6,4 @@ dependencies:
   - pip
   - pip:
     - git+https://github.com/nmearl/hubbleds.git
+    - pywwt @ git+https://github.com/nmearl/pywwt@prekdr
